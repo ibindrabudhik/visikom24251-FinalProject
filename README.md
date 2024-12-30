@@ -14,8 +14,8 @@ Tugas besar ini bertujuan untuk mendeteksi kendaraan darurat (emergency vehicles
 ## Struktur Repositori
 ```
 .
-├── model.ipynb        # Notebook untuk pelatihan dan evaluasi model RT-DETR
-├── ui_model.ipynb     # Notebook untuk antarmuka pengguna berbasis Gradio
+├── CV_FinalProject_Model.ipynb        # Notebook untuk pelatihan dan evaluasi model RT-DETR
+├── UI FinalProject_Model.ipynb     # Notebook untuk antarmuka pengguna berbasis Gradio
 ├── README.md          # Dokumentasi tugas besar
 ```
 

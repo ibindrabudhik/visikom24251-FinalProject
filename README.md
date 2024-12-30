@@ -1,8 +1,8 @@
 # Deteksi Emergency Vehicles dan Non-Emergency Vehicles dengan RT-DETR
 
-## Deskripsi Proyek
+## Deskripsi Tugas Besar
 
-Proyek ini bertujuan untuk mendeteksi kendaraan darurat (emergency vehicles) dan kendaraan non-darurat menggunakan model RT-DETR (Real-Time Detection Transformer) sebagai syarat tugas besar mata kuliah Visi Komputer. Implementasi proyek mencakup dua komponen utama:
+Tugas besar ini bertujuan untuk mendeteksi kendaraan darurat (emergency vehicles) dan kendaraan non-darurat menggunakan model RT-DETR (Real-Time Detection Transformer) sebagai syarat tugas besar mata kuliah Visi Komputer. Implementasi proyek mencakup dua komponen utama:
 
 1. **Model:** Notebook ini mencakup pelatihan dan evaluasi model RT-DETR menggunakan dataset yang relevan.
 2. **UI Model:** Notebook ini menyediakan UI berbasis Gradio untuk mendemonstrasikan deteksi kendaraan dalam video atau foto.
@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk mendeteksi kendaraan darurat (emergency vehicles) dan
 .
 ├── model.ipynb        # Notebook untuk pelatihan dan evaluasi model RT-DETR
 ├── ui_model.ipynb     # Notebook untuk antarmuka pengguna berbasis Gradio
-├── README.md          # Dokumentasi proyek
+├── README.md          # Dokumentasi tugas besar
 ```
 
 ## Cara Menggunakan File
